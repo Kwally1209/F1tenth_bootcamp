@@ -1,0 +1,250 @@
+Script started on 2021-11-23 20:14:59+0900
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src/f1tenth_system/racecar[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src/f1tenth_system/racecar[00m$ scripts
+bash: scripts: command not found
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src/f1tenth_system/racecar[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src/f1tenth_system/racecar[00m$ cd scripts/ [A
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src/f1tenth_system/racecar/scripts[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src/f1tenth_system/racecar/scripts[00m$ ls
+f1tenth_ros_agent.py      joy_teleop.py          Wall_following_lab.pyc
+gap_follow_agent.py       wall_follow_agnet.py
+gap_follow_lab_minjae.py  Wall_following_lab.py
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src/f1tenth_system/racecar/scripts[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src/f1tenth_system/racecar/scripts[00m$ cd  ../../..
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src[00m$ ls
+CMakeLists.txt  [0m[01;34mf1tenth_system[0m
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws/src[00m$ cd ..
+]0;hmcl2@hmcl2-desktop: ~/sandbox/f1tenth_ws[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox/f1tenth_ws[00m$ cd ..
+]0;hmcl2@hmcl2-desktop: ~/sandbox[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/sandbox[00m$ cd ..
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ ls
+바탕화면   [0m[01;34mDocuments[0m         [01;34mhj_test[0m  [01;34mparticle[0m  [01;34msandbox[0m    [01;34mworkspace[0m
+[01;34mcatkin_ws[0m  [01;34mDownloads[0m         [01;34mMusic[0m    [01;34mPictures[0m  [01;34mTemplates[0m
+[01;34mDesktop[0m    examples.desktop  [01;34mndtpso[0m   [01;34mPublic[0m    [01;34mVideos[0m
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ fcd Templates/
+bash: fcd: command not found
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ ls
+바탕화면   [0m[01;34mDocuments[0m         [01;34mhj_test[0m  [01;34mparticle[0m  [01;34msandbox[0m    [01;34mworkspace[0m
+[01;34mcatkin_ws[0m  [01;34mDownloads[0m         [01;34mMusic[0m    [01;34mPictures[0m  [01;34mTemplates[0m
+[01;34mDesktop[0m    examples.desktop  [01;34mndtpso[0m   [01;34mPublic[0m    [01;34mVideos[0m
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ cd Templates/
+]0;hmcl2@hmcl2-desktop: ~/Templates[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/Templates[00m$ ls
+]0;hmcl2@hmcl2-desktop: ~/Templates[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/Templates[00m$ cd ..
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ ls
+바탕화면   [0m[01;34mDocuments[0m         [01;34mhj_test[0m  [01;34mparticle[0m  [01;34msandbox[0m    [01;34mworkspace[0m
+[01;34mcatkin_ws[0m  [01;34mDownloads[0m         [01;34mMusic[0m    [01;34mPictures[0m  [01;34mTemplates[0m
+[01;34mDesktop[0m    examples.desktop  [01;34mndtpso[0m   [01;34mPublic[0m    [01;34mVideos[0m
+]0;hmcl2@hmcl2-desktop: ~[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~[00m$ cd particle/
+]0;hmcl2@hmcl2-desktop: ~/particle[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle[00m$ ls
+[0m[01;34mbuild[0m  [01;34mdevel[0m  [01;34msrc[0m
+]0;hmcl2@hmcl2-desktop: ~/particle[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle[00m$ cd src/
+]0;hmcl2@hmcl2-desktop: ~/particle/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src[00m$ ls
+[0m[01;36mCMakeLists.txt[0m  [01;34mtiny_racecar_particle_ws[0m
+]0;hmcl2@hmcl2-desktop: ~/particle/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src[00m$ cd ty
+bash: cd: ty: No such file or directory
+]0;hmcl2@hmcl2-desktop: ~/particle/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src[00m$ cd tiny_racecar_particle_ws/
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws[00m$ ls
+[0m[01;36mCMakeLists.txt[0m  [01;34mhector_slam[0m  [01;34mparticle_filter[0m  [01;34mrange_libc[0m
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws[00m$ cd hector_slam/
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam[00m$ ls
+[0m[01;34mhector_geotiff[0m             [01;34mhector_map_server[0m      [01;34mhector_slam_launch[0m
+[01;34mhector_geotiff_plugins[0m     [01;34mhector_map_tools[0m       [01;34mhector_trajectory_server[0m
+[01;34mhector_imu_attitude_to_tf[0m  [01;34mhector_marker_drawing[0m  README.txt
+[01;34mhector_imu_tools[0m           [01;34mhector_nav_msgs[0m
+[01;34mhector_mapping[0m             [01;34mhector_slam[0m
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam[00m$ cd hectoor__m[K[Kmapping/
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping[00m$ ls
+CHANGELOG.rst  CMakeLists.txt  [0m[01;34minclude[0m  [01;34mlaunch[0m  [01;34mmsg[0m  package.xml  [01;34msrc[0m
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping[00m$ cd src/
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping/src[00m$ ls
+HectorDebugInfoProvider.h  HectorMappingRos.cpp  main_mapper.cpp
+HectorDrawings.h           HectorMappingRos.h    PoseInfoContainer.cpp
+HectorMapMutex.h           main.cpp              PoseInfoContainer.h
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping/src[00m$ vi main.cpp
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"main.cpp" 44L, 2033C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m//===============================================================================[2;1H===================
+// Copyright (c) [m[31m2011[m[34m, Stefan Kohlbrecher, TU Darmstadt
+// All rights reserved.
+
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//     * Redistributions of source code must retain the above copyright
+//       notice, this list of conditions and the following disclaimer.
+//     * Redistributions in binary form must reproduce the above copyright
+//       notice, this list of conditions and the following disclaimer in the
+//       documentation and/or other materials provided with the distribution.
+//     * Neither the name of the Simulation, Systems Optimization and Robotics
+//       group, TU Darmstadt nor the names of its contributors may be used to
+//       endorse or promote products derived from this software without
+//       specific prior written permission.
+
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS [m[31m"AS IS"[m[34m AA[19;1HND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED[21;1H// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+// DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES[m[24;63H1,1[11CTop[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[96m//===============================================================================[2;1H===================
+// Copyright (c) [m[95m2011[m[96m, Stefan Kohlbrecher, TU Darmstadt
+// All rights reserved.
+
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//     * Redistributions of source code must retain the above copyright
+//       notice, this list of conditions and the following disclaimer.
+//     * Redistributions in binary form must reproduce the above copyright
+//       notice, this list of conditions and the following disclaimer in the
+//       documentation and/or other materials provided with the distribution.
+//     * Neither the name of the Simulation, Systems Optimization and Robotics
+//       group, TU Darmstadt nor the names of its contributors may be used to
+//       endorse or promote products derived from this software without
+//       specific prior written permission.
+
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS [m[95m"AS IS"[m[96m AA[19;1HND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED[21;1H// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+// DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES[m[24;63H1,1[11CTop"main.cpp" 44L, 2033C[1;1H[?25h[?25l[24;63H2[3;1H[?25h[?25l[24;63H3[4;1H[?25h[?25l[24;53H~@k[4;1H[24;53H   [5;1H[24;63H4,0-1[5;1H[?25h[?25l[24;63H5,1  [6;1H[?25h[?25l[24;63H6[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [8;1H[24;63H7[8;1H[?25h[?25l[24;53H~@k[8;1H[24;53H   [9;1H[24;63H8[9;1H[?25h[?25l[24;53H~@k[9;1H[24;53H   [10;1H[24;63H9[10;1H[?25h[?25l[24;53H~@k[10;1H[24;53H   [11;1H[24;63H10,1[11;1H[?25h[?25l[24;53H~@k[11;1H[24;53H   [12;1H[24;64H1[12;1H[?25h[?25l[24;53H~@k[12;1H[24;53H   [13;1H[24;64H2[13;1H[?25h[?25l[24;53H~@k[13;1H[24;53H   [14;1H[24;64H3[14;1H[?25h[?25l[24;53H~@k[14;1H[24;53H   [15;1H[24;64H4[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [16;1H[24;64H5[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [17;1H[24;64H6,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [16;1H[1;23r[1;1H[2M[1;24r[22;1H[96m// (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+// LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND[m[24;1H[K[24;63H17,1[11C4%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[24;64H8[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT[m[24;63H[K[24;63H19,1[11C9%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS[m[24;63H[K[24;63H20,1[10C13%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.[m[24;63H[K[24;63H21,1[10C18%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[96m//===============================================================================[23;1H===================[m[24;63H[K[24;63H22,1[10C26%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H3[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H24,1[10C30%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H25,1[10C34%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m<ros/ros.h>[m[24;63H[K[24;63H26,1[10C39%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[23;1H[38;5;81m#include [m[95m"HectorMappingRos.h"[m[24;63H[K[24;63H27,1[10C47%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H28,0-1[8C52%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;121mint[m main([38;5;121mint[m argc, [38;5;121mchar[m** argv)[24;63H[K[24;63H29,0-1[8C56%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H{[24;63H[K[24;63H30,1[10C60%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hros::init(argc, argv, [95m"hector_slam"[m);[24;63H[K[24;63H31,0-1[8C65%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H32,1[10C69%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3HHectorMappingRos sm;[24;63H[K[24;63H33,0-1[8C77%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H4,1  [18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hros::spin();[24;63H[K[24;63H35,1[10C81%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H36,1[10C86%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[93mreturn[m([95m0[m);[24;63H[K[24;63H37,0-1[8C90%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H}[24;63H[K[24;63H38,1[10C95%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H39,0-1[8CBot[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [19;1H[24;63H40,1  [19;1H[?25h[?25l[24;53H~@k[19;1H[24;53H   [20;1H[24;64H1,0-1[20;1H[?25h[?25l[24;53H~@k[20;1H[24;53H   [21;1H[24;64H2,1  [21;1H[?25h[?25l[24;53H~@k[21;1H[24;53H   [22;1H[14;1H[46m{[22;1H}[m[24;64H3[22;1H[?25h[?25l[24;53H~@k[22;1H[24;53H   [23;1H[14;1H{[22;1H}[24;64H4,0-1[23;1H[?25h[?25l[24;53H~@k[23;1H[24;53H   [23;1H[?25h[?25l[24;53H~@k[23;1H[24;53H   [23;1H[?25h[?25l[24;53H~@k[23;1H[24;53H   [22;1H[14;1H[46m{[22;1H}[m[24;64H3,1  [22;1H[?25h[?25l[24;53H~@k[22;1H[24;53H   [21;1H[14;1H{[22;1H}[24;64H2[21;1H[?25h[?25l[24;53H~@k[21;1H[24;53H   [20;1H[24;64H1,0-1[20;1H[?25h[?25l[24;53H~@k[20;1H[24;53H   [19;1H[24;64H0,1  [19;1H[?25h[?25l[24;53H~@k[19;1H[24;53H   [18;1H[24;63H39,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[24;64H8,1  [17;1H[?25h[?25l[24;53H^[[17;1H[24;53H  [17;1H[24;53H^[[17;1H[24;53H  [17;1H[?25h[?25l[24;53H:[17;1H[24;53H[K[24;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h1[?25l[?25h[?25l[24;4H[K[24;4H[?25h![?25l[?25h[?25l[?2004l"main.cpp" 44L, 2033C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping/src[00m$ ls
+HectorDebugInfoProvider.h  HectorMappingRos.cpp  main_mapper.cpp
+HectorDrawings.h           HectorMappingRos.h    PoseInfoContainer.cpp
+HectorMapMutex.h           main.cpp              PoseInfoContainer.h
+]0;hmcl2@hmcl2-desktop: ~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_mapping/src[01;32mhmcl2@hmcl2-desktop[00m:[01;34m~/particle/src/tiny_racecar_particle_ws/hector_slam/hector_maapping/src[00m$ g[Kvi HectorMappingRos.cpp 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"HectorMappingRos.cpp" 556L, 19863C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m//===============================================================================[2;1H===================
+// Copyright (c) [m[31m2011[m[34m, Stefan Kohlbrecher, TU Darmstadt
+// All rights reserved.
+
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//     * Redistributions of source code must retain the above copyright
+//       notice, this list of conditions and the following disclaimer.
+//     * Redistributions in binary form must reproduce the above copyright
+//       notice, this list of conditions and the following disclaimer in the
+//       documentation and/or other materials provided with the distribution.
+//     * Neither the name of the Simulation, Systems Optimization and Robotics
+//       group, TU Darmstadt nor the names of its contributors may be used to
+//       endorse or promote products derived from this software without
+//       specific prior written permission.
+
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS [m[31m"AS IS"[m[34m AA[19;1HND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED[21;1H// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+// DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES[m[24;63H1,1[11CTop[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[96m//===============================================================================[2;1H===================
+// Copyright (c) [m[95m2011[m[96m, Stefan Kohlbrecher, TU Darmstadt
+// All rights reserved.
+
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//     * Redistributions of source code must retain the above copyright
+//       notice, this list of conditions and the following disclaimer.
+//     * Redistributions in binary form must reproduce the above copyright
+//       notice, this list of conditions and the following disclaimer in the
+//       documentation and/or other materials provided with the distribution.
+//     * Neither the name of the Simulation, Systems Optimization and Robotics
+//       group, TU Darmstadt nor the names of its contributors may be used to
+//       endorse or promote products derived from this software without
+//       specific prior written permission.
+
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS [m[95m"AS IS"[m[96m AA[19;1HND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED[21;1H// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+// DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES[m[24;63H1,1[11CTop"HectorMappingRos.cpp" 556L, 19863C[1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [3;1H[24;63H2[3;1H[?25h[?25l[24;53H~@k[3;1H[24;53H   [4;1H[24;63H3[4;1H[?25h[?25l[24;53H~@k[4;1H[24;53H   [5;1H[24;63H4,0-1[5;1H[?25h[?25l[24;53H~@k[5;1H[24;53H   [6;1H[24;63H5,1  [6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [7;1H[24;63H6[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [8;1H[24;63H7[8;1H[?25h[?25l[24;53H~@k[8;1H[24;53H   [9;1H[24;63H8[9;1H[?25h[?25l[24;53H~@k[9;1H[24;53H   [10;1H[24;63H9[10;1H[?25h[?25l[24;53H~@k[10;1H[24;53H   [11;1H[24;63H10,1[11;1H[?25h[?25l[24;53H~@k[11;1H[24;53H   [12;1H[24;64H1[12;1H[?25h[?25l[24;53H~@k[12;1H[24;53H   [13;1H[24;64H2[13;1H[?25h[?25l[24;53H~@k[13;1H[24;53H   [14;1H[24;64H3[14;1H[?25h[?25l[24;53H~@k[14;1H[24;53H   [15;1H[24;64H4[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [16;1H[24;64H5[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [17;1H[24;64H6,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [16;1H[1;23r[1;1H[2M[1;24r[22;1H[96m// (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+// LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND[m[24;1H[K[24;63H17,1[11C0%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[24;64H8[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT[m[24;63H[K[24;63H19,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS[m[24;63H[K[24;63H20,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.[m[24;63H[K[24;63H21,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[96m//===============================================================================[23;1H===================[m[24;63H[K[24;63H22,1[11C1%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H3[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H24,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m"HectorMappingRos.h"[m[24;63H[K[24;63H25,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H26,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;81m#include [m[95m"map/GridMap.h"[m[24;63H[K[24;63H27,1[11C2%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m<geometry_msgs/PoseWithCovarianceStamped.h>[m[24;63H[K[24;63H28,0-1[9C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m<nav_msgs/Odometry.h>[m[24;63H[K[24;63H29,1[11C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H30,0-1[9C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m"sensor_msgs/PointCloud2.h"[m[24;63H[K[24;63H31,1[11C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[24;64H0,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [16;1H[24;63H29,1  [16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [15;1H[24;64H8,0-1[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [13;1H[24;64H7,1  [13;1H[?25h[?25l[24;53H~@k[13;1H[24;53H   [12;1H[24;64H6[12;1H[?25h[?25l[24;53H~@k[12;1H[24;53H   [11;1H[24;64H5[11;1H[?25h[?25l[24;53H~@k[11;1H[24;53H   [10;1H[24;64H4[10;1H[?25h[?25l[24;53H~@k[10;1H[24;53H   [9;1H[24;64H3[9;1H[?25h[?25l[24;53H~@k[9;1H[24;53H   [8;1H[24;64H2[8;1H[?25h[?25l[24;53H~@k[8;1H[24;53H   [7;1H[24;64H1[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [6;1H[24;64H0[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//       specific prior written permission.[m[24;63H[K[24;63H19,1[11C2%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//       endorse or promote products derived from this software without[m[24;63H[K[24;63H18,1[11C2%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[2L[1;24r[1;1H[96m//     * Neither the name of the Simulation, Systems Optimization and Robotics
+//       group, TU Darmstadt nor the names of its contributors may be used to[m[24;63H[K[24;63H17,1[11C2%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//       documentation and/or other materials provided with the distribution.[m[24;63H[K[24;63H16,0-1[9C1%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//       notice, this list of conditions and the following disclaimer in the[m[24;63H[K[24;63H15,1[11C1%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//     * Redistributions in binary form must reproduce the above copyright[m[24;63H[K[24;63H14,1[11C1%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//       notice, this list of conditions and the following disclaimer.[m[24;63H[K[24;63H13,1[11C1%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m//     * Redistributions of source code must retain the above copyright[m[24;63H[K[24;63H12,1[11C1%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m// modification, are permitted provided that the following conditions are met:[m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H11,1[11C0%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m// Redistribution and use in source and binary forms, with or without[m[24;63H[K[24;63H10,1[11C0%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[24;63H[K[24;63H9,1[12C0%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m// All rights reserved.[m[24;63H[K[24;63H8,1[12C0%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[96m// Copyright (c) [m[95m2011[m[96m, Stefan Kohlbrecher, TU Darmstadt[m[24;63H[K[24;63H7,1[12C0%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [7;1H[1;23r[1;1H[2L[1;24r[1;1H[96m//===============================================================================[2;1H===================[m[24;63H[K[24;63H6,1[11CTop[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [6;1H[24;63H5[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [5;1H[24;63H4,0-1[5;1H[?25h[?25l[24;53H~@k[5;1H[24;53H   [4;1H[24;63H3,1  [4;1H[?25h[?25l[24;53H~@k[4;1H[24;53H   [3;1H[24;63H2[3;1H[?25h[?25l[24;53H~@k[3;1H[24;53H   [1;1H[24;63H1[1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [1;1H[?25h[?25l[24;53H~@k[1;1H[24;53H   [3;1H[24;63H2[3;1H[?25h[?25l[24;53H~@k[3;1H[24;53H   [4;1H[24;63H3[4;1H[?25h[?25l[24;53H~@k[4;1H[24;53H   [5;1H[24;63H4,0-1[5;1H[?25h[?25l[24;53H~@k[5;1H[24;53H   [6;1H[24;63H5,1  [6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [7;1H[24;63H6[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [8;1H[24;63H7[8;1H[?25h[?25l[24;53H~@k[8;1H[24;53H   [9;1H[24;63H8[9;1H[?25h[?25l[24;53H~@k[9;1H[24;53H   [10;1H[24;63H9[10;1H[?25h[?25l[24;53H~@k[10;1H[24;53H   [11;1H[24;63H10,1[11;1H[?25h[?25l[24;53H~@k[11;1H[24;53H   [12;1H[24;64H1[12;1H[?25h[?25l[24;53H~@k[12;1H[24;53H   [13;1H[24;64H2[13;1H[?25h[?25l[24;53H~@k[13;1H[24;53H   [14;1H[24;64H3[14;1H[?25h[?25l[24;53H~@k[14;1H[24;53H   [15;1H[24;64H4[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [16;1H[24;64H5[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [17;1H[24;64H6,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [16;1H[1;23r[1;1H[2M[1;24r[22;1H[96m// (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+// LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND[m[24;63H[K[24;63H17,1[11C0%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[24;64H8[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT[m[24;63H[K[24;63H19,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS[m[24;63H[K[24;63H20,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[96m// SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.[m[24;63H[K[24;63H21,1[11C0%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[96m//===============================================================================[23;1H===================[m[24;63H[K[24;63H22,1[11C1%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H3[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H24,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m"HectorMappingRos.h"[m[24;63H[K[24;63H25,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H26,1[11C1%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;81m#include [m[95m"map/GridMap.h"[m[24;63H[K[24;63H27,1[11C2%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m<geometry_msgs/PoseWithCovarianceStamped.h>[m[24;63H[K[24;63H28,0-1[9C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m<nav_msgs/Odometry.h>[m[24;63H[K[24;63H29,1[11C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H30,0-1[9C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m"sensor_msgs/PointCloud2.h"[m[24;63H[K[24;63H31,1[11C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H32,0-1[9C2%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;81m#include [m[95m"HectorDrawings.h"[m
+[38;5;81m#include [m[95m"HectorDebugInfoProvider.h"[m[24;63H[K[24;63H33,1[11C3%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H4[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#include [m[95m"HectorMapMutex.h"[m[24;63H[K[24;63H35,0-1[9C3%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H36,1[11C3%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#ifndef TF_SCALAR_H[m[24;63H[K[24;63H37,0-1[9C3%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[38;5;121mtypedef[m btScalar tfScalar;[24;63H[K[24;63H38,1[11C3%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;81m#endif[m[24;63H[K[24;63H39,1[11C4%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H40,1[11C4%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1HHectorMappingRos::HectorMappingRos()[24;63H[K[24;63H41,0-1[9C4%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H: debugInfoProvider([95m0[m)[24;63H[K[24;63H42,1[11C4%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H, hectorDrawings([95m0[m)[24;63H[K[24;63H43,1[11C4%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3H, lastGetMapUpdateIndex(-[95m100[m)
+  , tfB_([95m0[m)[24;63H[K[24;63H44,1[11C5%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H5,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H, map__publish_thread_([95m0[m)[24;63H[K[24;63H46,1[11C5%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H, initial_pose_set_([95mfalse[m)[24;63H[K[24;63H47,1[11C5%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H{[24;63H[K[24;63H48,1[11C5%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hros::NodeHandle private_nh_([95m"~"[m);[24;63H[K[24;63H49,1[11C5%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H50,1[11C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hstd::string mapTopic_ = [95m"map"[m;[24;63H[K[24;63H51,1[11C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H52,1[11C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"pub_drawings"[m, p_pub_drawings, [95mfalse[m);[24;63H[K[24;63H53,1[11C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"pub_debug_output"[m, p_pub_debug_output_, [95mfalse[m);[24;63H[K[24;63H54,1[11C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"pub_map_odom_transform"[m, p_pub_map_odom_transform_,[95mtrue[m);[24;63H[K[24;63H55,0-1[9C6%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"pub_odometry"[m, p_pub_odometry_,[95mfalse[m);[24;63H[K[24;63H56,1[11C7%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"advertise_map_service"[m, p_advertise_map_service_,[95mtrue[m);[24;63H[K[24;63H57,0-1[9C7%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"scan_subscriber_queue_size"[m, p_scan_subscriber_queue_size_,,[23;1H [95m5[m);[24;63H[K[24;63H58,1[11C7%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H9[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H60,1[11C7%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"map_resolution"[m, p_map_resolution_, [95m0.025[m);[24;63H[K[24;63H61,1[11C8%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"map_size"[m, p_map_size_, [95m1024[m);[24;63H[K[24;63H62,1[11C8%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"map_start_x"[m, p_map_start_x_, [95m0.5[m);
+  private_nh_.param([95m"map_start_y"[m, p_map_start_y_, [95m0.5[m);[24;63H[K[24;63H63,1[11C8%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"map_multi_res_levels"[m, p_map_multi_res_levels_, [95m3[m);[24;63H[K[24;63H64,0-1[9C8%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H65,1[11C8%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"update_factor_free"[m, p_update_factor_free_, [95m0.4[m);[24;63H[K[24;63H66,1[11C9%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"update_factor_occupied"[m, p_update_factor_occupied_, [95m0.9[m);[24;63H[K[24;63H67,1[11C9%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H68,1[11C9%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"map_update_distance_thresh"[m, p_map_update_distance_thresholl[23;1Hd_, [95m0.4[m);[24;63H[K[24;63H69,1[11C9%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;63H70,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"map_update_angle_thresh"[m, p_map_update_angle_threshold_, [95m0..[23;1H9[m);[24;63H[K[24;63H71,1[10C10%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H2[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H73,0-1[8C10%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [16;1H[1;23r[1;1H[3M[1;24r[21;3Hprivate_nh_.param([95m"scan_topic"[m, p_scan_topic_, std::string([95m"scan"[m));
+  private_nh_.param([95m"sys_msg_topic"[m, p_sys_msg_topic_, std::string([95m"syscommand"[m))[23;1H);[24;63H[K[24;63H74,1[10C10%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [16;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"pose_update_topic"[m, p_pose_update_topic_, std::string([95m"posee[23;1Hupdate"[m));[24;63H[K[24;63H75,1[10C11%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[24;64H6,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H77,1[10C11%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"use_tf_scan_transformation"[m, p_use_tf_scan_transformation_,,[23;1H[95mtrue[m);[24;63H[K[24;63H78,1[10C11%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"use_tf_pose_start_estimate"[m, p_use_tf_pose_start_estimate_,,[23;1H[95mfalse[m);[24;63H[K[24;63H79,1[10C12%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"map_with_known_poses"[m, p_map_with_known_poses_, [95mfalse[m);[24;63H[K[24;63H80,0-1[8C12%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[23;3Hprivate_nh_.param([95m"base_frame"[m, p_base_frame_, std::string([95m"base_link"[m));[24;63H[K[24;63H81,1[10C12%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"map_frame"[m, p_map_frame_, std::string([95m"map"[m));
+  private_nh_.param([95m"odom_frame"[m, p_odom_frame_, std::string([95m"odom"[m));[24;63H[K[24;63H82,1[10C12%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H83,1[10C13%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"pub_map_scanmatch_transform"[m, p_pub_map_scanmatch_transformm[23;1H_,[95mtrue[m);[24;63H[K[24;63H84,0-1[8C13%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H5,1  [18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"tf_map_scanmatch_transform_frame_name"[m, p_tf_map_scanmatch__[23;1Htransform_frame_name_, std::string([95m"scanmatcher_frame"[m));[24;63H[K[24;63H86,1[10C13%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H7[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[23;3Hprivate_nh_.param([95m"output_timing"[m, p_timing_output_,[95mfalse[m);[24;63H[K[24;63H88,0-1[8C13%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [17;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H89,1[10C14%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [16;1H[1;23r[1;1H[3M[1;24r[21;3Hprivate_nh_.param([95m"map_pub_period"[m, p_map_pub_period_, [95m2.0[m);
+
+  [38;5;121mdouble[m tmp = [95m0.0[m;[24;63H[K[24;63H90,1[10C14%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[24;64H1,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"laser_min_dist"[m, tmp, [95m0.4[m);
+  p_sqr_laser_min_dist_ = [93mstatic_cast[m<[38;5;121mfloat[m>(tmp*tmp);[24;63H[K[24;63H92,1[10C14%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H3,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H94,1[10C14%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3Hprivate_nh_.param([95m"laser_max_dist"[m, tmp, [95m30.0[m);
+  p_sqr_laser_max_dist_ = [93mstatic_cast[m<[38;5;121mfloat[m>(tmp*tmp);[24;63H[K[24;63H95,0-1[8C15%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H6,1  [18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[23;3Hprivate_nh_.param([95m"laser_z_min_value"[m, tmp, -[95m1.0[m);[24;63H[K[24;63H97,1[10C15%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;64H8[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hp_laser_z_min_value_ = [93mstatic_cast[m<[38;5;121mfloat[m>(tmp);[24;63H[K[24;63H99,0-1[8C15%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H100,1[9C15%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hprivate_nh_.param([95m"laser_z_max_value"[m, tmp, [95m1.0[m);[24;63H[K[24;63H101,1[9C15%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3Hp_laser_z_max_value_ = [93mstatic_cast[m<[38;5;121mfloat[m>(tmp);[24;63H[K[24;63H102,0-1[7C16%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H103,1[9C16%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[93mif[m (p_pub_drawings)[24;63H[K[24;63H104,1[9C16%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;3H{
+    ROS_INFO([95m"HectorSM publishing debug drawings"[m);[24;63H[K[24;63H105,0-1[7C16%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;65H6,1  [18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;5HhectorDrawings = [93mnew[m HectorDrawings();
+  }[24;63H[K[24;63H107,1[9C16%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;65H8,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H109,1[9C17%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[93mif[m(p_pub_debug_output_)[24;63H[K[24;63H110,1[9C17%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H{[24;63H[K[24;63H111,1[9C17%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;5HROS_INFO([95m"HectorSM publishing debug info"[m);[24;63H[K[24;63H112,1[9C17%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;5HdebugInfoProvider = [93mnew[m HectorDebugInfoProvider();[24;63H[K[24;63H113,1[9C17%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H}[24;63H[K[24;63H114,0-1[7C18%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H115,1[9C18%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[93mif[m(p_pub_odometry_)[24;63H[K[24;63H116,1[9C18%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H{[24;63H[K[24;63H117,1[9C18%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;5HodometryPublisher_ = node_.advertise<nav_msgs::Odometry>([95m"scanmatch_odom"[m, [95m55[23;1H0[m);[24;63H[K[24;63H118,1[9C18%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[24;65H9[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H}[24;63H[K[24;63H120,0-1[7C19%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H121,1[9C19%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [16;1H[1;23r[1;1H[3M[1;24r[21;3HslamProcessor = [93mnew[m hectorslam::HectorSlamProcessor([93mstatic_cast[m<[38;5;121mfloat[m>(p_map_rr[22;1Hesolution_), p_map_size_, p_map_size_, Eigen::Vector2f(p_map_start_x_, p_map_staa[23;1Hrt_y_), p_map_multi_res_levels_, hectorDrawings, debugInfoProvider);[24;63H[K[24;63H122,1[9C19%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [17;1H[24;65H3[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3HslamProcessor->setUpdateFactorFree(p_update_factor_free_);[24;63H[K[24;63H124,1[9C19%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3HslamProcessor->setUpdateFactorOccupied(p_update_factor_occupied_);[24;63H[K[24;63H125,0-1[7C20%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [16;1H[1;23r[1;1H[3M[1;24r[21;3HslamProcessor->setMapUpdateMinDistDiff(p_map_update_distance_threshold_);
+  slamProcessor->setMapUpdateMinAngleDiff(p_map_update_angle_threshold_);[24;63H[K[24;63H126,1[9C20%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3H[38;5;121mint[m mapLevels = slamProcessor->getMapLevels();[24;63H[K[24;63H127,1[9C20%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;3HmapLevels = [95m1

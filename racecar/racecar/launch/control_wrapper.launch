@@ -1,0 +1,19 @@
+<launch>
+    <arg name="racecar_version" default="racecar-v2" />
+    <arg name="run_camera" default="false"/>
+    <arg name="rate" default ="15"/>
+    <arg name="ref_vel" default ="2.0"/>
+    <arg name="environment" default ="real"/>
+
+    <node pkg="racecar" type="safety_checker_node.py" name="safety_checker" output="screen">
+        <param name="rate" type = "int" value ="$(arg rate)"/>
+    </node>
+    <node pkg="racecar" type="emergency_node.py" name="emergency" output="screen">
+        <param name="rate" type = "int" value ="$(arg rate)"/>
+    </node>
+    <node pkg="racecar" type="reactive_node.py" name="reactive_controller" output="screen">
+        <param name="rate" type = "int" value ="$(arg rate)"/>
+        <param name="vel"  value ="$(arg ref_vel)"/>
+        <param name="Environment" value="$(arg environment)"/>
+    </node>
+</launch>

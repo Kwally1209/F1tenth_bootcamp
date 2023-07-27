@@ -1,0 +1,11 @@
+<launch>
+<param name="/vesc/joy_node/dev" value="/dev/input/js0"/>
+    <node name="joy_node" pkg="joy" type="joy_node">
+	<remap from="vesc/joy" to="joy"/>
+        <param name="autorepeat_rate" value="10"/>
+        <param name="sticky_buttons" value="true"/>
+        
+<!--        <remap from="/dev/input/js0" to="/dev/input/js1"/> -->
+    </node>
+</launch>
+
